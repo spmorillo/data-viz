@@ -1,0 +1,13 @@
+Map by boroughs (bronx selected)
+https://censusreporter.org/profiles/06000US3600508510-bronx-borough-bronx-county-ny/
+
+Links to data
+
+Manhattan and Bronx
+https://censusreporter.org/data/table/?table=B01001&geo_ids=150|06000US3600508510,150|06000US3606144919&primary_geo_id=06000US3606144919
+
+Brooklyn and Staten Island
+https://censusreporter.org/data/table/?table=B01001&geo_ids=150|06000US3604710022,150|06000US3608570915&primary_geo_id=06000US3608570915
+
+Queens
+https://censusreporter.org/data/table/?table=B01001&geo_ids=150|06000US3608160323&primary_geo_id=06000US3608160323#
