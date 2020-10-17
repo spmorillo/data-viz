@@ -1,6 +1,6 @@
 # NYC Aging Population
 
-Data visualitation of elderly people in NYC (65+ years) by blocks and census tracts.
+Interactive data visualitation of elderly people in NYC (65+ years) by blocks and census tracts.
 
 Maps by blocks:
 
